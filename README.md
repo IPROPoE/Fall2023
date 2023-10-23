@@ -17,8 +17,6 @@ Power Over Ethernet
      * To clone a repository using GitHub CLI, click GitHub CLI, then click copy to clipboard.
 * Open Terminal
 * Type git clone, and then paste the URL you copied earlier
-# Code
-
 ```linux
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
